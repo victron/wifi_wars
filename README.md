@@ -1,7 +1,8 @@
 # Wifi Wars
+
 ---
-It's not tolerant to deauthenticate someone, but it's also not tolerant
-to set wifi power on max and buy crazy powered routers.
+It's not tolerant to deauthenticate someone, but it's also not tolerant to set wifi power on max and buy crazy powered routers.
+
 ===
 currently working on same channel as ```wlan0```
 ## Oriented to work on openwrt
