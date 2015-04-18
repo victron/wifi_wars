@@ -12,6 +12,7 @@ normally with ```-d ram``` option
 - copy it in ```/usr/sbin/``` (actualy only aireplay-ng)
 with libs
 - find needed libs with ``` ldd```
+
 #### same pre-requirements need to do with ```horst```
 ### Generally script done:
 - create ```mon0``` interface
